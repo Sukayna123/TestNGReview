@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test name="Test with intro 1">
+
+        <classes>
+
+            <class name="_Day4._01_XML1"></class>
+
+        </classes>
+
+    </test>
+
+
+
+    <test name="Test with intro 2">
+
+        <classes>
+
+            <class name="_Day4._02_XML2"></class>
+
+        </classes>
+
+    </test>
+
+</suite>
